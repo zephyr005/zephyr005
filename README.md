@@ -47,6 +47,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zephyr005&" alt="zephyr005" /></p>
 
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
+
 # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 <p align="left">
 <a href="https://linkedin.com/in/rajkumar005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajkumar005" height="30" width="40" /></a>
